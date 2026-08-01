@@ -289,11 +289,11 @@ Special thanks to the mentors and faculty members of IIT Hyderabad for providing
 
 **G. Chandan Lal**
 
-📧 Email: *(Add your email here)*
+📧 Email: *(chandu584p@gmai.com)*
 
-💼 LinkedIn: *(Add your LinkedIn URL)*
+💼 LinkedIn: *(https://www.linkedin.com/in/gajibinkarchandan/)*
 
-🐙 GitHub: *(Add your GitHub profile URL)*
+🐙 GitHub: *(https://github.com/chandu01g)*
 
 ---
 
